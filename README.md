@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=holmane333)](https://solved.ac/holmane333)
+
+[![CodeForces Profile](https://cf.leed.at?id=holmane333)](https://codeforces.com/profile/holmane333)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lnsqj123&show_icons=true&theme=dark)
